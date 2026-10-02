@@ -9,7 +9,7 @@
 
   "vars": {
     "APP_ENV": "production",
-    "FRONTEND_ORIGINS": "http://localhost:5173,http://127.0.0.1:5173,https://delgra.freegameplay.site,https://frontend-phi-one-blilpsvwav.vercel.app",
+    "FRONTEND_ORIGINS": "http://localhost:5173,http://127.0.0.1:5173,https://delgra.freegameplay.site,https://frontend-gamma-wheat-pis5k459nk.vercel.app",
     "APP_URL": "https://delgra.freegameplay.site/",
     "COOKIE_SECURE": "true",
     "SESSION_TTL_MINUTES": "10080",
